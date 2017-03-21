@@ -8,10 +8,10 @@
   "dependencies": {
     "async": "^1.4.2",
     "cp-file": "^3.1.0",
-    "ds-store": "^0.1.5",
+    "ds-store": "https://github.com/afloesch/node-ds-store.git",
     "execa": "^0.4.0",
     "fs-temp": "^1.0.0",
-    "fs-xattr": "^0.1.14",
+    "fs-xattr": "https://github.com/LinusU/fs-xattr.git",
     "image-size": "^0.5.0",
     "is-my-json-valid": "^2.13.1",
     "minimist": "^1.1.3",
